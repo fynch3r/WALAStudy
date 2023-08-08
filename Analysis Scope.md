@@ -28,6 +28,7 @@ scope.addClassFileToScope(ClassLoaderReference loader, File file)
 - file: class 文件
 
 当然还有很多方式：
+
 <img width="702" alt="image" src="https://github.com/fynch3r/WALAStudy/assets/45999489/bf924d1c-e69f-414d-8d72-bac0cf9af6c6">
 
 # scope.txt 内容
